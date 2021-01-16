@@ -1,7 +1,7 @@
 # MixUW
 ![screenshot](screenshot.jpg)
 
-Prototype for a University of Washington community app to bridge social divides.
+UI prototype for a University of Washington community app to bridge social divides.
 
 MixUW Video Presentation
 https://www.youtube.com/watch?v=VT9U5fOIehs&feature=youtu.be
