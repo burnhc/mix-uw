@@ -26,11 +26,10 @@ underscoring the widespread xenophobia that continues to endure in universities.
 final project aims to explore technological solutions for mitigating the social and cultural
 gaps between domestic and international students at the University of Washington.
 
-We proposing a social app called “MixUW”,which is a play on the word ‘mix-up’ to give
-the impression that the app’s primary
+We propose a social app called “MixUW”, which is a play on the term ‘mix-up’. The app’s
 objective is to mix cultural groups at the University of Washington. MixUW features both
 groups and messaging components as well as a community feed component. At the
-launch screen, students log in with their UW Net ID, which serves as verification that the
+launch screen, students log in with their UW NetID, which serves as verification that the
 student is from the school. After they log in, students would be able to specify their
 nationality, native language, major, year, and their interests, allowing the app to place
 them in relevant groups and community feeds. The app would then match the student
