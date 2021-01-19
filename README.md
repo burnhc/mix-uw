@@ -1,4 +1,4 @@
-# MixUW
+# MixUW App UI Prototype
 ![screenshot](screenshot.jpg)
 
 UI prototype for a University of Washington community app to bridge social divides.
