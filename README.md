@@ -4,6 +4,8 @@
 UI prototype for a University of Washington community app to bridge social divides.
 I worked in a team of five students to perform user research and design the prototype using UI principles.
 
+⭐ Among 5 projects to be selected Best Project in UW INFO200 Spring 2020.
+
 MixUW Video Presentation:
 https://www.youtube.com/watch?v=VT9U5fOIehs&feature=youtu.be
 
